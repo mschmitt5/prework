@@ -21,3 +21,10 @@ table, td, th {
 .css-list {
 	color: blue;
 }
+
+.center {
+	width: 100%;
+	margin: auto;
+	text-align: center;
+}
+
