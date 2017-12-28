@@ -28,3 +28,15 @@ table, td, th {
 	text-align: center;
 }
 
+.center-list {
+	width: 50%;
+	list-style-position: inside;
+	text-align: left;
+	display: inline-block;
+}
+
+input, label, textarea {
+	display: block;
+	margin-top: .3em;
+
+}
